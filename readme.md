@@ -1,3 +1,3 @@
 # History of the Internet IS601
-## Created by Karthik Chandrashekar and Shilpa Parameshwara
-[History of Internet](http://shil-kar.eastus.azurecontainer.io)
+## Created by Karthik Chandrashekar
+[Articles](http://article007.eastus.azurecontainer.io/)
